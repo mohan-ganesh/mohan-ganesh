@@ -2,7 +2,10 @@
 
 **Software Architect | Spring Boot& Java ADK Contributor**
 
+I use GitHub to build systems — I use garvik.dev(https://www.garvik.dev) to explain how and why they work.
+
 I specialize in bridging the gap between **Enterprise Java** and **Generative AI**. My work focuses on building production-ready, stateful AI systems using Spring Boot, Google Cloud, and the Model Context Protocol (MCP).
+
 
 ---
 
