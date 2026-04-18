@@ -31,4 +31,4 @@ I specialize in bridging the gap between **Enterprise Java** and **Generative AI
 
 *   **Technical Blog:** [garvik.dev](https://www.garvik.dev)
 *   **LinkedIn:** [linkedin.com/in/mohan-ganesh](https://linkedin.com/in/mohan-ganesh)
-*   **Open Source:** [Spring Boot Issue #47944](https://github.com/spring-projects/spring-boot/issues/47944) | [Google ADK PR #601](https://github.com/google/adk-java/pull/601)
+*   **Open Source:** [Spring Boot Issue #47944](https://github.com/spring-projects/spring-boot/issues/47944) | [Google ADK](https://github.com/google/adk-java/pull/601)
