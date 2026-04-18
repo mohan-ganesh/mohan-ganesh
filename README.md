@@ -29,6 +29,6 @@ I specialize in bridging the gap between **Enterprise Java** and **Generative AI
 
 ### 🌐 Connect with Me
 
-*   **Technical Blog:** [garvik.dev](https://www.garvik.dev)
+*   **Technical Blog:** [garvik.dev](https://www.garvik.dev) | [adk.dev](https://adk.dev/integrations/firestore-session-service)
 *   **LinkedIn:** [linkedin.com/in/mohan-ganesh](https://linkedin.com/in/mohan-ganesh)
 *   **Open Source:** [Spring Boot Issue #47944](https://github.com/spring-projects/spring-boot/issues/47944) | [Google ADK](https://github.com/google/adk-java/pull/601)
